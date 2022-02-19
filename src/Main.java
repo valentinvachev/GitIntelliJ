@@ -3,5 +3,7 @@ public class Main {
         System.out.println("This is first");
         System.out.println("This is first 2");
         System.out.println("This is third part");
+
+        System.out.println("Thiird partttt");
     }
 }
