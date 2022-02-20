@@ -5,5 +5,6 @@ public class Main {
         System.out.println("This is third part");
 
         System.out.println("Thiird partttt");
+          System.out.println("Thiird another part");
     }
 }
