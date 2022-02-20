@@ -5,5 +5,7 @@ public class Main {
         System.out.println("This is third part");
 
         System.out.println("Fourth part");
+        System.out.println("Fourth part");
+        System.out.println("Fourth part");
     }
 }
