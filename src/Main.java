@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("Thiird partttt");
           System.out.println("Thiird another part");
-          System.out.println("Thiird another part 2");
+          System.out.println("Thiird another part 3");
     }
 }
